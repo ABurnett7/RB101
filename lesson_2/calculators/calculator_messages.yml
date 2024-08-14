@@ -1,7 +1,7 @@
 # Messages For The File calculator_with_bonus_features.rb
 
 beginning: # Start the program by setting the language
-  select_language: "Select your language (en)glish, (es)panol, (de)utsch\n"
+  select_language: "Select your language (En)glish, (Es)pañol, (De)utsch\n"
   try_again: "Please try again\n"
 
 en:
