@@ -93,7 +93,7 @@ de:
 
   #Output
   two_numbers: "die beiden Zahlen..."
-  divide_by_zero_error: "YDu kannst nicht durch Null dividieren!"
+  divide_by_zero_error: "Du kannst nicht durch Null dividieren!"
   again_question: "Möchten Sie eine weitere Berechnung durchführen? (Y, um erneut zu rechnen)"
   the_result: "Das Ergebnis ist "
 
